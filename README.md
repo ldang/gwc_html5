@@ -30,11 +30,12 @@ However, if you don't have ```git``` installed on your computer, you can actuall
 1. Login to your GitHub account.  If you don't have one, you can sign up for one.
 2. Make a new repository
 3. Select the main branch, and create a new branch called gh-pages.
-4. Add your files by selecting the ```Add File``` button next to the green ```Code``` button.   You can drag all of your files to the landing spot on the web browser.   Please add a commit message that describes the change you just made.   It will take a little time for the files to be processed.
+4. Add your files by selecting the ```Add File``` button next to the green ```Code``` button.   You can drag all of your files to the landing spot on the web browser.   Please add a commit message that describes the change you just made and click ont he green ```Commit Changes``` button at the bottom of the screen.   It will take a little time for the files to be processed.
 5. You will access your new website at a special URL or web address.  Access your new website at this URL: https://<github username>.github.io/<repo name>
+6.  You can edit any text files by navigating to the file, and clicking on the pencil icon in the upper right.  Any time you edit the file, you need to specify a commit message and then click on the green ```Commit Changes``` button.
   
 Please note that GitHub can take a couple of minutes to update your site after you make a change.   
 
-As an example: this repository's website can be accessed at [https://ldang.github.io/gwc_html5](https://ldang.github.io/gwc_html5)
+As an example: this repository([https://github.com/ldang/gwc_html5](https://github.com/ldang/gwc_html5)) contains a website that can be accessed at [https://ldang.github.io/gwc_html5](https://ldang.github.io/gwc_html5)
   
 
